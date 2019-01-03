@@ -1,5 +1,6 @@
 Hello Git and GitHub
 
+#function calling another function example
 def max_num2(a,b):
   if (a>b):
     return a
